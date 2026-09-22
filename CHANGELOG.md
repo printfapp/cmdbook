@@ -3,6 +3,14 @@
 User-facing changes only. Internal implementation, build, and CI details are
 kept in the private development changelog.
 
+## 1.8.0
+
+- Added clearer command and folder pickers for dependencies, Move to, and Copy to, with search and full paths.
+- Improved command comparison so matching commands are easier to identify and compare.
+- Added command run output access through the CLI, REST API, and MCP, including follow, wait, and history-aware run identifiers.
+- Added configurable HTTP and port health checks for command dependencies.
+- Improved import and export compatibility with safer relationship handling and clearer diagnostics.
+
 ## 1.6.0
 
 - Added safer command and folder management through the CLI and MCP, including path-based folder lookup and dedicated environment management.

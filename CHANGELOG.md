@@ -1,7 +1,13 @@
 # Changelog
 
-User-facing changes only. Internal implementation, build, and CI details are
-kept in the private development changelog.
+## 1.9.6
+
+- Added a redesigned Workbench for browsing, running, pinning, and organizing command sessions across tabs and split panes.
+- Expanded command reuse with notes for commands and folders, dependency health checks, and richer CLI/MCP run output history and controls.
+- Improved command comparison and import/export, including safer compatibility handling and nested folder comparisons.
+- Improved path suggestions, startup behavior, and window reliability across the app.
+- Improved command and folder editing with consistent layouts, clearer full paths, and more visible keyboard focus.
+- Improved keyboard navigation, focus handling, and Escape behavior across dialogs.
 
 ## 1.8.0
 

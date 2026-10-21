@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.9.9
+
+- Refactor folder pickers.
+- Improved keyboard focus and shortcut handling while dialogs are open, including immediate typing in Quick Open.
+
 ## 1.9.6
 
 - Added a redesigned Workbench for browsing, running, pinning, and organizing command sessions across tabs and split panes.

@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.11.0
+
+- Added a unified notification center with persistent history for important failures, including Secret access, exports, automatic sync, and update checks. New failures are easy to review later, while successful and cancelled operations stay quiet.
+- Fixed the command tree's Run button so running an already selected command also reopens its closed Run tab.
+
+## 1.10.0
+
+- Improved command editing save responsiveness, with visible save status and a retry option if background saving fails.
+
 ## 1.9.9
 
 - Refactor folder pickers.

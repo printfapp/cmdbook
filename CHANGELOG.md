@@ -1,9 +1,14 @@
 # Changelog
 
+## 1.12.1
+
+- Added Linux ARM64 downloads (AppImage and .deb).
+- Bug fix
+
 ## 1.11.0
 
-- Added a unified notification center with persistent history for important failures, including Secret access, exports, automatic sync, and update checks. New failures are easy to review later, while successful and cancelled operations stay quiet.
-- Fixed the command tree's Run button so running an already selected command also reopens its closed Run tab.
+- Added a unified notification center.
+- Fixed bugs.
 
 ## 1.10.0
 
@@ -40,4 +45,7 @@
 
 ## Unreleased
 
-No changes yet.
+- Fixed native editor windows growing larger after repeated opens on Ubuntu Wayland.
+- Native editors now stay prewarmed in production builds, so reopening them reuses their hidden window.
+- Fixed the first-launch tour skipping steps before the command tree finished loading.
+- Added native Linux ARM64 downloads alongside Linux x64 packages.

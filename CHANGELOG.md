@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.13.0
+
+- Import review now opens in its own window, groups changes by folder, hides unchanged commands, and lets you compare changed commands and folder variables before importing.
+- Added a right-click menu to terminal output: copy, copy all output, paste, select all, find, save output and clear.
+- Fix bugs.
+
 ## 1.12.1
 
 - Added Linux ARM64 downloads (AppImage and .deb).

@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.14.0
+
+- New Pro feature: Process Tree. See every process a running command starts, with its CPU, memory and full command line, in the new Run Details panel below the terminal (⌘J / Ctrl+J).
+- Fixed bugs.
+
 ## 1.13.0
 
 - Import review now opens in its own window, groups changes by folder, hides unchanged commands, and lets you compare changed commands and folder variables before importing.

@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.15.0
+
+- New: cmdbook can use your macOS or Windows system proxy. Settings → General → Network has three separate switches: one for license activation and updates, one for HTTP checks, and one for the commands you run. All are off by default.
+- Fixed bugs.
+
 ## 1.14.0
 
 - New Pro feature: Process Tree. See every process a running command starts, with its CPU, memory and full command line, in the new Run Details panel below the terminal (⌘J / Ctrl+J).

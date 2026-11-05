@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.16.0
+
+- New: you can turn off anonymous usage statistics in Settings → General → Usage statistics. cmdbook tells you about them once on first launch and sends nothing before that.
+
 ## 1.15.0
 
 - New: cmdbook can use your macOS or Windows system proxy. Settings → General → Network has three separate switches: one for license activation and updates, one for HTTP checks, and one for the commands you run. All are off by default.

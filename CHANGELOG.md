@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.17.0
+
+- New Pro feature: Recent run output.
+- Fixed bugs.
+
 ## 1.16.0
 
 - New: you can turn off anonymous usage statistics in Settings → General → Usage statistics. cmdbook tells you about them once on first launch and sends nothing before that.

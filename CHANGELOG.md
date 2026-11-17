@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.18.1
+
+- New Pro features: Integrated Terminal (open shells in a command's Run Details panel) and HTTP Capture.
+- Dependency checks and Health Checks can use ${VAR}, and every field that fills in variables now completes ${VAR}.
+- Fixed bugs.
+
 ## 1.17.0
 
 - New Pro feature: Recent run output.

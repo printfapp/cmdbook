@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.19.0
+
+- Folder Editor now has Cancel and Save. Changes, including Secrets and variable renames, apply only when you save.
+- Fixed bugs.
+
 ## 1.18.1
 
 - New Pro features: Integrated Terminal (open shells in a command's Run Details panel) and HTTP Capture.
